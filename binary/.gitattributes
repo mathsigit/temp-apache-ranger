@@ -1,0 +1,5 @@
+ranger-2.1.0-admin.tar.gz filter=lfs diff=lfs merge=lfs -text
+ranger-2.1.0-hdfs-plugin.tar.gz filter=lfs diff=lfs merge=lfs -text
+ranger-2.1.0-hive-plugin.tar.gz filter=lfs diff=lfs merge=lfs -text
+ranger-2.1.0-usersync.tar.gz filter=lfs diff=lfs merge=lfs -text
+ranger-2.1.0-yarn-plugin.tar.gz filter=lfs diff=lfs merge=lfs -text
